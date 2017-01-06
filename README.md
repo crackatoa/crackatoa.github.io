@@ -1,4 +1,4 @@
-### Timeline
+## Timeline
 
 ### Weekly Report #1
 
