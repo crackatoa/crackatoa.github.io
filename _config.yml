@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "crackatoa"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/logo/icon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "/dev/null"
-  location         : "Somewhere"
+  location         : "ID"
   email            : "rdj@crackatoa.id"
   links:
     - label: "Email"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/crackatoa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
