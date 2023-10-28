@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "crackatoa"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "crackatoa"
+name                     : #"crackatoa"
 description              : "crackatoa.id"
 url                      : "https://crackatoa.id" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
