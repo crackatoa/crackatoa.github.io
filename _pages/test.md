@@ -1,6 +1,6 @@
 ---
 title: "authors"
-permalink: /authors/
+permalink: /test/
 ---
 
 test
