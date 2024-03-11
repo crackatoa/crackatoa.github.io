@@ -4,3 +4,4 @@ permalink: /test/
 ---
 
 test
+{% include authors %}
