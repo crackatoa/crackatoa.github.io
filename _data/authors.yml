@@ -1,6 +1,6 @@
 Tahu Datar:
-  name        : "tahu datar"
-  bio         : "flat tofu"
+  name        : "tahu.datar"
+  bio         : "/dev/null"
   avatar      : "/assets/logo/Aether_Remnant_icon.webp"
   links:
     - label: "Email"
@@ -11,8 +11,8 @@ Tahu Datar:
       url: "https://crackatoa.id"
 
 Shah Racoon:
-  name        : "shah racoon"
-  bio         : "shah racoon"
+  name        : "shah.racoon"
+  bio         : "/dev/null"
   avatar      : "/assets/logo/Stone_Remnant_icon.webp"
   links:
     - label: "Email"
@@ -23,8 +23,8 @@ Shah Racoon:
       url: "https://crackatoa.id"
 
 Ginkgo Biloba:
-  name        : "ginkgo biloba"
-  bio         : "ginkgo biloba"
+  name        : "ginkgo.biloba"
+  bio         : "/dev/null"
   avatar      : "/assets/logo/Fire_Remnant_icon.webp"
   links:
     - label: "Email"
