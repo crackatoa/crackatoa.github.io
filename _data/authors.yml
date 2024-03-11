@@ -1,0 +1,35 @@
+Tahu Datar:
+  name        : "tahu datar"
+  bio         : "flat tofu"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tahu.datar@crackatoa.id"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://crackatoa.id"
+
+Shah Racoon:
+  name        : "shah racoon"
+  bio         : "shah racoon"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:shah.racoon@crackatoa.id"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://crackatoa.id"
+
+Ginkgo Biloba:
+  name        : "ginkgo biloba"
+  bio         : "ginkgo biloba"
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ginkgo.biloban@crackatoa.id"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://crackatoa.id"
