@@ -1,7 +1,7 @@
 Tahu Datar:
   name        : "tahu datar"
   bio         : "flat tofu"
-  avatar      : "/assets/logo/icon.png"
+  avatar      : "/assets/logo/Aether_Remnant_icon.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -13,7 +13,7 @@ Tahu Datar:
 Shah Racoon:
   name        : "shah racoon"
   bio         : "shah racoon"
-  avatar      : "/assets/logo/icon.png"
+  avatar      : "/assets/logo/Stone_Remnant_icon.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -25,7 +25,7 @@ Shah Racoon:
 Ginkgo Biloba:
   name        : "ginkgo biloba"
   bio         : "ginkgo biloba"
-  avatar      : "/assets/logo/icon.png"
+  avatar      : "/assets/logo/Fire_Remnant_icon.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
