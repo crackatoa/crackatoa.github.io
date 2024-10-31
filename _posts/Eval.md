@@ -24,7 +24,7 @@ I was running semgrep using this rule against 40.000+ wordpress plugins that dow
 
 ## Validation Process
 
-The most painful process during this experiment was validation process, I need to manually validate the results if its exploitable or not. Since I was used a default PHP file inclusion template, the rule was created to detect the simple source and sink. So, there was a lot of false positive during manual validation process. Within 800+ results, I was able to find only 21 valid LFI that reported to patchstack. 
+The most painful process during this experiment was validation process, I need to manually validate the results if its exploitable or not. Since I was used a default PHP file inclusion template, the rule was created to detect the simple source and sink. So, there was a lot of false positive during manual validation process. Within 800+ results, I was able to find only 27 valid LFI that reported to patchstack. 
 
 But, during manual validation process, I was learn which code that really secure develop or not. Here is what I get:
 1. Plugins that has secure protection always using allow whitelisting, which mean the code will check file before included to a function. For example, before the file is call by require, require_once, include, or include_once, it always check if file name is on allowed whitelist array or not. 
